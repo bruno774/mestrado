@@ -1,2 +1,2 @@
 # mestrado
-acompanhamento e publicação do projeto do mestrado
+acompanhamento das atividades, códigos e demais taregas do projeto de mestrado
